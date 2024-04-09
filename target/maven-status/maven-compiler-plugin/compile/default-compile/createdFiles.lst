@@ -1,0 +1,4 @@
+com/redis/redis/config/RedisConfig.class
+com/redis/redis/entity/Product.class
+com/redis/redis/repository/ProductDao.class
+com/redis/redis/RedisApplication.class
