@@ -7,7 +7,7 @@ Note: In testing
 3. Make sure the redis instance in your environment is up and running usually redis runs on localhost:6379 by default
 5. By using postman or any other testing application you can check the validity of the application. Paste the following info accordingly
    Endpoint :
-     - POST http://localhost:9999/products/save
+     - POST http://localhost:9999/products/save -> JSON data is 
      {
        "id": 1,
        "name": "Pencil",
